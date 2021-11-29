@@ -1,0 +1,5 @@
+HANDS2
+v1.0 - published
+v1.0.1 - fixed calculateBaseCoverages function to cater for introns, also added check for MD flag in processAlignments function
+v1.0.2 - (1) fixed SAM.getRelativePosition() to cater for insertions/deletions within an alignment. The function no longer uses MD flag but gets relative position using CIGAR string only. (2) added a check for theSequenceGFFList being NULL in HANDS2.processSAMFile(). The code was crashing if the GFF file did not contain a sequence against which an alignment was present in the SAM file.
+v1.1.1 - Fixed various bugs for intron processing when processing sam file.
