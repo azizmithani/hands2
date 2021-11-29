@@ -1,0 +1,10 @@
+##gff-version 3
+T_aestivum_b59	.	gene	201	2131	.	+	.	ID=gnl|UG|Ta#S58863728;fasta_tag=gnl|UG|Ta#S58863728 TSA: Triticum aestivum contig07261.TraeRec mRNA sequence /gb=JP213065 /gi=346480564 /ug=Ta.3 /len=1931
+T_aestivum_b59	.	gene	2332	4222	.	+	.	ID=gnl|UG|Ta#S12922951;fasta_tag=gnl|UG|Ta#S12922951 T.aestivum atp-2 mRNA for ATP synthase beta subunit /cds=p(15,1676) /gb=X74545 /gi=525290 /ug=Ta.5 /len=1891
+T_aestivum_b59	.	gene	4423	5969	.	+	.	ID=gnl|UG|Ta#S58866862;fasta_tag=gnl|UG|Ta#S58866862 TSA: Triticum aestivum contig03722.TraeRec mRNA sequence /gb=JP209931 /gi=346477430 /ug=Ta.10 /len=1547
+T_aestivum_b59	.	gene	6170	7496	.	+	.	ID=gnl|UG|Ta#S58906720;fasta_tag=gnl|UG|Ta#S58906720 TSA: Triticum aestivum cultivar Bobwhite isotig05476.flagleaf mRNA sequence /gb=HP614647 /gi=312467378 /ug=Ta.11 /len=1327
+T_aestivum_b59	.	gene	7697	8841	.	+	.	ID=gnl|UG|Ta#S12923024;fasta_tag=gnl|UG|Ta#S12923024 T.aestivum L. mRNA for TATA binding protein (TFIID) /cds=p(119,820) /gb=X59874 /gi=21874 /ug=Ta.15 /len=1145
+T_aestivum_b59	.	gene	9042	10824	.	+	.	ID=gnl|UG|Ta#S58897355;fasta_tag=gnl|UG|Ta#S58897355 TSA: Triticum aestivum cultivar Bobwhite isotig14798.flagleaf mRNA sequence /gb=HP624012 /gi=312476743 /ug=Ta.18 /len=1783
+T_aestivum_b59	.	gene	11025	11733	.	+	.	ID=gnl|UG|Ta#S16230349;fasta_tag=gnl|UG|Ta#S16230349 G356.106F12F010918 G356 Triticum aestivum cDNA clone G356106F12, mRNA sequence /clone=G356106F12 /gb=CD902219 /gi=32676547 /ug=Ta.19 /len=709
+T_aestivum_b59	.	gene	11934	13107	.	+	.	ID=gnl|UG|Ta#S12923032;fasta_tag=gnl|UG|Ta#S12923032 T.aestivum VDAC2 mRNA for voltage dependent anion channel /cds=p(1,822) /gb=X82149 /gi=558649 /ug=Ta.22 /len=1174
+T_aestivum_b59	.	gene	13308	14538	.	+	.	ID=gnl|UG|Ta#S58896031;fasta_tag=gnl|UG|Ta#S58896031 TSA: Triticum aestivum cultivar Bobwhite isotig16117.flagleaf mRNA sequence /gb=HP625336 /gi=312478067 /ug=Ta.23 /len=1231
